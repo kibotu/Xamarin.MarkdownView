@@ -22,6 +22,11 @@
     <PackageProjectUrl>https://github.com/kibotu/Xamarin.MarkdownView</PackageProjectUrl>
     <Title>Xamarin.MarkdownView</Title>
     <Description>MarkdownView is an Android webview with the capability of loading Markdown text or file and display it as HTML, it extends Android webview.</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseUrl>https://github.com/kibotu/Xamarin.MarkdownView/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageReleaseNotes>1.0.5</PackageReleaseNotes>
+    <Summary>MarkdownView is an Android webview with the capability of loading Markdown text or file and display it as HTML, it extends Android webview.</Summary>
+    <PackageTags>android markdown view</PackageTags>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
