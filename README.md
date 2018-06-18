@@ -1,10 +1,10 @@
 # MarkdownView-Android [![NuGet Badge](https://buildstats.info/nuget/Xamarin.MarkdownView)](https://www.nuget.org/packages/Xamarin.MarkdownView/) 
 
-Port of https://github.com/mukeshsolanki/MarkdownView.Android to Xamarin.
+Port of https://github.com/mukeshsolanki/MarkdownView-Android to Xamarin.
 
 ## How to use
 
-Have a look at [README.md](https://github.com/tbruyelle/Xamarin.MarkdownView/blob/master/README.md)
+Have a look at [README.md](https://github.com/mukeshsolanki/MarkdownView-Android/blob/master/README.md)
 
 ## How to install
 
