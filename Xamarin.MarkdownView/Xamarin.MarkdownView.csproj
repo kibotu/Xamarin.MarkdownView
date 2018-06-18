@@ -14,6 +14,14 @@
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <AndroidClassParser>class-parse</AndroidClassParser>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>Xamarin.MarkdownView</PackageId>
+    <PackageVersion>1.0.5</PackageVersion>
+    <Authors>mukeshsolanki</Authors>
+    <Owners>mukeshsolanki</Owners>
+    <PackageProjectUrl>https://github.com/kibotu/Xamarin.MarkdownView</PackageProjectUrl>
+    <Title>Xamarin.MarkdownView</Title>
+    <Description>MarkdownView is an Android webview with the capability of loading Markdown text or file and display it as HTML, it extends Android webview.</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
