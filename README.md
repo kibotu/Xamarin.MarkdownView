@@ -1,4 +1,4 @@
-# MarkdownView-Android [![BuildVersion](https://buildstats.info/nuget/Xamarin.MarkdownView)](https://www.nuget.org/packages/Xamarin.MarkdownView/)
+# MarkdownView-Android [![NuGet Badge](https://buildstats.info/nuget/Xamarin.MarkdownView)](https://www.nuget.org/packages/Xamarin.MarkdownView/) 
 
 Port of https://github.com/mukeshsolanki/MarkdownView.Android to Xamarin.
 
